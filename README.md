@@ -1,8 +1,8 @@
 ![3](https://github.com/user-attachments/assets/97329df9-dbc9-49d8-9a88-a05c6a16b4ef)
 
-👋 Hey there, I’m [Cale Morris]!
+👋 ## Hey there, I’m Cale Morris!
 
-🎯 Purpose-Driven Developer
+🎯 ### Purpose-Driven Developer
 
 I'm a Python enthusiast focused on projects that make a difference. I love using tech to solve real-world problems, particularly in the realm of data science and financial markets. Whether it’s deriving insights from abstract data or fine-tuning AI models, I aim to create solutions that matter.
 
