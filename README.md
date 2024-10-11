@@ -2,6 +2,8 @@
 
 ## 👋 Hey there, I’m Cale Morris!
 
+### How Long Have I Coded For? ------->      <a href="https://wakatime.com/badge/github/deepspeccode/assitant"><img src="https://wakatime.com/badge/github/deepspeccode/assitant.svg" alt="wakatime"></a>
+
 ### 🎯 Purpose-Driven Developer
 
 I'm a Python enthusiast focused on projects that make a difference. I love using tech to solve real-world problems, particularly in the realm of data science and financial markets. Whether it’s deriving insights from abstract data or fine-tuning AI models, I aim to create solutions that matter.
